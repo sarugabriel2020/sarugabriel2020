@@ -9,6 +9,9 @@
 
 ### Connect with me:
 
+**With Linkedin** :   [![Linkedin: Saru Gabriel](https://img.shields.io/badge/-SaruGabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saru-gabriel-alexandru-40648a1b4/)](https://www.linkedin.com/in/saru-gabriel-alexandru-40648a1b4/)
+
+**With GitHub**   :   [![GitHub sarugabriel2020](https://img.shields.io/github/followers/sarugabriel2020?label=follow&style=social)](https://github.com/sarugabriel2020)
 
 <br />
 
