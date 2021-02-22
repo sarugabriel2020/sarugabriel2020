@@ -15,7 +15,7 @@
 
 ### Programmig Languages that I'm currently fammiliar with:
 
-[<img align="left" alt="C " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
+[<img align="left" alt="C " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Python/Python.png" />][python]
 
 [<img align="left" alt="C " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 
@@ -30,4 +30,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/saru-gabriel-alexandru-40648a1b4/
-
+[python]:   https://www.python.org/
