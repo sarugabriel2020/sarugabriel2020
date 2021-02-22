@@ -9,21 +9,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="imag/linced.png" />][linkedin]
 
 <br />
 
 ### Programmig Languages that I'm currently fammiliar with:
 
-[<img align="left" alt="C " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Python/Python.png" />][python]
+[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.pngm" />][python]
 
-[<img align="left" alt="C " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
+[<img align="left" alt="Java " width="26px" src="" />][java]
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
+[<img align="left" alt="C" width="26px" src="" />][c]
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
+[<img align="left" alt="Terminal" width="26px" src="" />][terminal]
 
-[<img align="left" alt="Assembly" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
+[<img align="left" alt="Assembly" width="26px" src="" />][assembly]
 
 
 <br />
@@ -31,3 +31,7 @@
 
 [linkedin]: https://www.linkedin.com/in/saru-gabriel-alexandru-40648a1b4/
 [python]:   https://www.python.org/
+[java]:     https://en.wikipedia.org/wiki/Java_(programming_language)
+[c]:        https://www.programiz.com/c-programming
+[terminal]: https://en.wikipedia.org/wiki/Linux_console
+[assembly]: https://en.wikipedia.org/wiki/Assembly       
